@@ -20,7 +20,7 @@ This project utilizes YOLOv8n (You Only Look Once) to detect objects in a Parkin
 1. **Clone the repository:**
 
     ```bash
-    git clone <https://github.com/MYahya3/Car_Parking_Space_Detector_YOLOv8.git>
+    git clone <https://github.com/SohailWarraich/Car_Parking_Space_Detector_YOLOv8.git>
     cd <Car_Parking_Space_Detector_YOLOv8>
     ```
 
